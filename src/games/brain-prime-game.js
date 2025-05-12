@@ -6,7 +6,6 @@ const maxNumber = 100
 
 const getRandomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
 
-
 const isPrime = (number) => {
   if (number < 2) {
     return false

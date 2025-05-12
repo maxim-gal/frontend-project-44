@@ -13,7 +13,6 @@ export default defineConfig([
       '@stylistic/quotes': ['error', 'single'],
       '@stylistic/semi': ['error', 'never'],
       '@stylistic/comma-dangle': ['error', 'always-multiline'],
-      
       'no-console': 'off',
       'import/extensions': 'off',
     },

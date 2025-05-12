@@ -6,7 +6,7 @@ const maxNumber = 9
 
 const getRandomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
 
-const getRandomIndex = (data) => Math.floor(Math.random() * data.length)
+const getRandomIndex = data => Math.floor(Math.random() * data.length)
 
 const getProgression = (start, step, length) => {
   const progressionArray = []
