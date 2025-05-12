@@ -9,3 +9,5 @@ Brain-calc game  https://asciinema.org/a/cTydUpvFAQ4B8qcediaUdr00t
 Brain-gcd game https://asciinema.org/a/fvwdk7PEWuPdb7bbkm481ycXv
 
 Brain-progression game https://asciinema.org/a/F0h6AvVXTyCGsOBzz5c8Et5IM
+
+Brain-prime game https://asciinema.org/a/gAz2250zFvpUOJK4zzG0OnJOh
