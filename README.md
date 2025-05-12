@@ -7,3 +7,5 @@ Brain-even game  https://asciinema.org/connect/251b3c0c-a2ba-42aa-ba3f-287543a83
 Brain-calc game  https://asciinema.org/a/cTydUpvFAQ4B8qcediaUdr00t
 
 Brain-gcd game https://asciinema.org/a/fvwdk7PEWuPdb7bbkm481ycXv
+
+Brain-progression game https://asciinema.org/a/F0h6AvVXTyCGsOBzz5c8Et5IM
